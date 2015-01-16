@@ -1,2 +1,8 @@
-# openHack15
+# OpenHack '15
 1226 lives here...
+
+# What is this?
+This is where most of the info about what we build goes...
+
+# So, what are we building?
+We have no idea...
