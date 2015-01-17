@@ -4,6 +4,8 @@
 <h3> What is this? </h3>
 This is where most of the info about what we build goes...
 
+<h3> Rule of the game </h3>
+_Create an original, executable and relevant app, within 24 hours, that opens up our world: provides greater transparency, increases the sharing of information or opens social connections._
 <h3> So, what are we building? </h3>
 We have no idea...
 
